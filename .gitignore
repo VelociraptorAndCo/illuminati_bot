@@ -1,1 +1,5 @@
 config.yaml
+*.csv
+homeworks
+conv*
+Tut*
